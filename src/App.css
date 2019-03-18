@@ -1,0 +1,12 @@
+body {
+  background: #fff;
+}
+
+.app {
+  margin: 0 auto;
+}
+
+.mapContainer {
+  margin: 4px;
+  flex-shrink: 0;
+}
